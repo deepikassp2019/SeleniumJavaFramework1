@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanitySuite">
+	<test name="TestA">
+	<groups>
+		<run>
+			<include name="Smoke"/>
+		</run>
+	</groups>
+		<classes>
+			<class name="com.vts.tests.TestAuthentication"/>
+		</classes>
+	</test>
+</suite>

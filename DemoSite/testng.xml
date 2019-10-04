@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+  <test name="Test" preserve-order="true">
+    <classes>
+   			<class name="com.vts.tests.Test00_PasswordEnforce"/>
+			<class name="com.vts.tests.Test01_UserManagement"/>			
+			<class name="com.vts.tests.Test03_AuthorizationGroup"/>
+			<class name="com.vts.tests.Test04_NetworkInventory"/>			
+			<class name="com.vts.tests.Test07_GlobalVNIPool"/>
+			<class name="com.vts.tests.Test08_DeviceVLANPool"/>
+			<class name="com.vts.tests.Test09_MultiCastIpPool"/>	
+			<class name="com.vts.tests.Test10_UploadPackages"/>			
+			<class name="com.vts.tests.Test14_PasswordChange"/>			
+            <class name="com.vts.tests.Test18_RouteReflector"/>				
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+<!--class name="com.vts.tests.Test02_RoutePolicyProfile"/-->
+<!--class name="com.vts.tests.Test05_HostInventory"/-->
+<!--class name="com.vts.tests.Test06_TenantManagement"/-->
+<!--class name="com.vts.tests.Test11_OverlayDetailsNetwork"/-->	
+<!--class name="com.vts.tests.Test12_OverlayDetailsRouter"/-->	
+<!--class name="com.vts.tests.Test13_NetworkInventoryFabricConnection"/-->
+<!--class name="com.vts.tests.Test15_TopologyDiscovery"/-->

@@ -1,0 +1,1293 @@
+2014-12-04 10:50:10,787 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-04 10:50:12,227 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-04 10:50:12,306 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-04 10:50:12,381 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-04 10:50:35,701 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-04 10:50:40,886 - com.vts.TestRunner - INFO - Browsing file NullColumnValue.csv from windows...
+2014-12-04 10:50:40,886 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-04 10:50:45,143 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-04 10:50:46,473 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-04 10:50:46,550 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-04 10:50:46,624 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-04 10:51:09,869 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-04 10:51:15,093 - com.vts.TestRunner - INFO - Browsing file CSVSample.csv from windows...
+2014-12-04 10:51:15,094 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-04 10:56:44,261 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-04 10:56:45,457 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-04 10:56:45,547 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-04 10:56:45,626 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-04 10:57:09,203 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-04 10:57:14,355 - com.vts.TestRunner - INFO - Browsing file NoDataButHeaders.csv from windows...
+2014-12-04 10:57:14,356 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-08 14:02:48,648 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:02:52,476 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:02:52,559 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:02:52,635 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:02:59,748 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:03:02,425 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:03:02,505 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:03:02,580 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:03:05,126 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-08 14:03:10,377 - com.vts.TestRunner - INFO - Browsing file BlankFile.csv from windows...
+2014-12-08 14:03:10,377 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-08 14:03:13,807 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:03:16,472 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:03:16,555 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:03:16,631 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:03:19,214 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-08 14:03:24,485 - com.vts.TestRunner - INFO - Browsing file NoColumn.csv from windows...
+2014-12-08 14:03:24,485 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-08 14:03:28,145 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:03:30,736 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:03:30,815 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:03:30,888 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:03:33,516 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-08 14:03:38,768 - com.vts.TestRunner - INFO - Browsing file NoDataButHeaders.csv from windows...
+2014-12-08 14:03:38,769 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-08 14:03:41,992 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:03:44,625 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:03:44,709 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:03:44,782 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:03:47,343 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-08 14:03:52,604 - com.vts.TestRunner - INFO - Browsing file NullColumnValue.csv from windows...
+2014-12-08 14:03:52,604 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-08 14:03:56,262 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:03:58,849 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:03:58,933 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:03:59,003 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:04:01,536 - com.vts.TestRunner - INFO - Entered chooseFilesToUpload Method
+2014-12-08 14:04:06,788 - com.vts.TestRunner - INFO - Browsing file CSVSample.csv from windows...
+2014-12-08 14:04:06,788 - com.vts.TestRunner - INFO - Exiting chooseFilesToUpload Method
+2014-12-08 14:30:45,365 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:30:47,960 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:30:48,045 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:30:48,123 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:33:18,102 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:33:20,408 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:33:20,489 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:33:20,564 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:49:36,900 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:49:39,177 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:49:39,260 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:49:39,334 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:50:25,559 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:50:27,745 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:50:27,827 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:50:27,906 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:52:40,119 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:52:42,722 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:52:42,806 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:52:42,884 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-08 14:53:45,162 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-08 14:53:47,588 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-08 14:53:47,672 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-08 14:53:47,746 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-10 15:07:49,654 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-10 15:07:52,240 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-10 15:07:52,326 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-10 15:07:52,402 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-10 15:45:59,092 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-10 15:46:01,341 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-10 15:46:01,428 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-10 15:46:01,504 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-10 15:46:41,199 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-10 15:46:43,792 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-10 15:46:43,873 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-10 15:46:43,948 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-10 15:47:15,123 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-10 15:47:17,938 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-10 15:47:18,024 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-10 15:47:18,101 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-15 15:12:55,849 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-15 15:12:57,571 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-15 15:12:57,669 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-15 15:12:57,752 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2014-12-16 10:38:59,274 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2014-12-16 10:39:01,422 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2014-12-16 10:39:01,511 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2014-12-16 10:39:01,590 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:19:04,525 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:19:05,988 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:19:06,070 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:19:06,146 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:20:14,272 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:20:16,000 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:20:16,085 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:20:16,160 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:24:35,173 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:24:36,563 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:24:36,655 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:24:36,733 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:26:50,706 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:26:52,407 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:26:52,492 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:26:52,567 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:29:05,119 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:29:06,839 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:29:06,920 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:29:06,997 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:31:05,045 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:31:07,038 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:31:07,119 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:31:07,199 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:32:28,780 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:32:30,522 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:32:30,608 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:32:30,685 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:34:54,942 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:34:56,688 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:34:56,771 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:34:56,860 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:35:57,326 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:35:58,769 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:35:58,851 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:35:58,927 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:38:03,580 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:38:05,268 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:38:05,359 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:38:05,436 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:41:07,513 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:41:08,856 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:41:08,943 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:41:09,018 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:47:08,971 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:47:10,713 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:47:10,812 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:47:10,898 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:48:44,426 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:48:45,802 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:48:45,885 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:48:45,962 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:49:30,486 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:49:32,030 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:49:32,118 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:49:32,193 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:58:08,920 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 18:58:10,317 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 18:58:10,405 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 18:58:10,487 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 18:59:59,345 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 19:00:01,051 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 19:00:01,133 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 19:00:01,212 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 19:01:23,700 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 19:01:25,298 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 19:01:25,381 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 19:01:25,458 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 19:06:46,206 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 19:06:47,799 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 19:06:47,882 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 19:06:47,956 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 19:07:57,026 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 19:07:58,421 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 19:07:58,506 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 19:07:58,583 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 19:11:11,352 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 19:11:12,820 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 19:11:12,898 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 19:11:12,980 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-01 19:15:31,563 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-01 19:15:33,264 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-01 19:15:33,353 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-01 19:15:33,431 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:33:12,249 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:33:13,334 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:33:13,421 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:33:13,498 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:34:36,019 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:34:37,198 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:34:37,288 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:34:37,366 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:35:20,736 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:35:21,819 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:35:21,903 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:35:21,982 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:40:19,087 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:40:20,222 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:40:20,344 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:40:20,437 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:44:01,527 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:44:02,572 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:44:02,657 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:44:02,735 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:57:13,222 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:57:14,552 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:57:14,635 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:57:14,712 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:57:47,077 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:57:48,406 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:57:48,492 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:57:48,571 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 16:59:21,644 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 16:59:22,714 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 16:59:22,799 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 16:59:22,875 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:00:02,916 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:00:03,969 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:00:04,056 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:00:04,133 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:02:48,525 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:02:49,636 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:02:49,732 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:02:49,817 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:10:00,281 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:10:01,335 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:10:01,421 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:10:01,499 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:10:06,713 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:10:07,802 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:10:07,888 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:10:07,967 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:10:17,674 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:10:18,684 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:10:18,768 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:10:18,839 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:10:53,209 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:10:54,267 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:10:54,348 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:10:54,422 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:14:58,529 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:14:59,595 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:14:59,674 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:14:59,751 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:27:08,898 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:27:09,942 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:27:10,036 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:27:10,122 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:36:00,827 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:36:01,861 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:36:01,946 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:36:02,021 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:37:36,687 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:37:37,736 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:37:37,820 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:37:37,896 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:39:36,876 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:39:37,960 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:39:38,042 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:39:38,119 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 17:44:34,151 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 17:44:35,300 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 17:44:35,389 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 17:44:35,466 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:07:22,199 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:07:23,277 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:07:23,367 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:07:23,448 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:14:24,873 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:14:25,913 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:14:26,002 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:14:26,079 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:16:21,950 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:16:23,036 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:16:23,120 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:16:23,198 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:19:07,597 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:19:08,654 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:19:08,741 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:19:08,816 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:21:33,911 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:21:34,957 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:21:35,044 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:21:35,119 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:22:28,039 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:22:29,093 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:22:29,180 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:22:29,255 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:26:00,791 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:26:02,006 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:26:02,092 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:26:02,167 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:40:42,328 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:40:43,392 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:40:43,477 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:40:43,551 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:41:53,176 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:41:54,227 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:41:54,314 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:41:54,390 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:42:16,315 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:42:17,385 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:42:17,471 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:42:17,546 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:43:29,509 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:43:30,558 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:43:30,642 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:43:30,719 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:56:32,955 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:56:34,000 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:56:34,086 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:56:34,162 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 18:59:16,333 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 18:59:17,394 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 18:59:17,478 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 18:59:17,554 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:00:51,108 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:00:52,367 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:00:52,455 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:00:52,537 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:04:06,314 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:04:07,358 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:04:07,445 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:04:07,521 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:07:32,738 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:07:33,783 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:07:33,871 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:07:33,950 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:09:25,880 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:09:26,946 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:09:27,029 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:09:27,111 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:17:19,831 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:17:20,870 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:17:20,952 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:17:21,028 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:18:18,673 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:18:19,726 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:18:19,810 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:18:19,883 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:19:20,889 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:19:21,933 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:19:22,016 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:19:22,091 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:23:02,479 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:28:28,481 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:28:29,637 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:28:29,722 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:28:29,807 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:30:40,349 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:30:41,422 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:30:41,505 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:30:41,583 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:31:26,698 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:31:27,934 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:31:28,040 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:31:28,137 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:32:01,178 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:32:02,395 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:32:02,499 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:32:02,593 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:32:20,361 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:32:21,515 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:32:21,618 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:32:21,708 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:33:40,808 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:33:41,869 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:33:41,957 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:33:42,031 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:34:56,041 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:34:57,216 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:34:57,315 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:34:57,406 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:36:16,716 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:36:17,782 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:36:17,866 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:36:17,950 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:38:14,784 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:38:15,850 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:38:15,935 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:38:16,013 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-02 19:39:24,916 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-02 19:39:25,989 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-02 19:39:26,076 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-02 19:39:26,154 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 11:55:08,014 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 11:55:10,037 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 11:55:10,137 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 11:55:10,230 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 11:59:25,067 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 11:59:26,617 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 11:59:26,712 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 11:59:26,802 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:09:05,961 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:09:07,604 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:09:07,692 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:09:07,771 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:11:58,747 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:12:00,117 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:12:00,204 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:12:00,285 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:17:06,240 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:17:07,700 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:17:07,790 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:17:07,870 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:18:25,970 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:18:27,433 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:18:27,521 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:18:27,607 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:20:09,781 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:20:11,046 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:20:11,136 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:20:11,215 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:21:03,722 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:21:05,092 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:21:05,182 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:21:05,259 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:22:35,511 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:22:37,004 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:22:37,095 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:22:37,177 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:23:39,360 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:23:40,724 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:23:40,813 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:23:40,888 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:27:03,384 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:27:04,727 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:27:04,819 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:27:04,899 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:28:28,604 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:28:30,123 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:28:30,212 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:28:30,293 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:29:42,313 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:29:43,503 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:29:43,606 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:29:43,693 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 12:31:05,557 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 12:31:09,068 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 12:31:09,156 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 12:31:09,236 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:22:33,310 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:22:34,601 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:22:34,712 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:22:34,799 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:23:09,987 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:23:11,385 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:23:11,479 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:23:11,562 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:24:18,852 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:24:20,490 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:24:20,588 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:24:20,694 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:25:27,664 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:25:29,111 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:25:29,201 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:25:29,286 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:26:41,951 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:26:43,180 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:26:43,278 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:26:43,363 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:27:08,321 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:27:09,748 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:27:09,844 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:27:09,928 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:31:08,009 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:31:09,521 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:31:09,609 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:31:09,688 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:31:36,062 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:31:37,491 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:31:37,587 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:31:37,670 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:32:13,141 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:32:14,220 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:32:14,311 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:32:14,393 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:32:41,030 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:32:42,346 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:32:42,443 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:32:42,523 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:33:13,615 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:33:15,005 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:33:15,096 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:33:15,178 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:33:40,487 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:33:42,038 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:33:42,130 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:33:42,218 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:34:07,866 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:34:09,493 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:34:09,579 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:34:09,664 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:34:36,252 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:34:37,773 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:34:37,864 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:34:37,940 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:49:44,147 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:49:45,538 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:49:45,622 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:49:45,703 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:56:16,460 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:56:18,197 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:56:18,286 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:56:18,374 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:57:32,288 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:57:33,402 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:57:33,492 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:57:33,572 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 13:59:11,650 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 13:59:13,317 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 13:59:13,404 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 13:59:13,483 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:14:36,961 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:14:38,156 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:14:38,249 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:14:38,333 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:15:03,421 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:15:05,074 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:15:05,166 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:15:05,246 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:15:31,251 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:15:32,644 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:15:32,730 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:15:32,814 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:15:59,005 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:16:00,963 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:16:01,051 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:16:01,138 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:16:27,606 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:16:29,370 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:16:29,474 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:16:29,560 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:16:56,039 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:16:57,546 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:16:57,639 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:16:57,713 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:17:24,345 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:17:26,041 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:17:26,133 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:17:26,207 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:17:57,664 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:17:58,815 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:17:58,903 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:17:58,975 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:21:57,736 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:21:58,786 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:21:58,871 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:21:58,946 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:22:53,844 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:22:54,952 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:22:55,039 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:22:55,112 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:25:49,328 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:25:50,478 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:25:50,564 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:25:50,637 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:29:53,210 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:29:54,250 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:29:54,338 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:29:54,411 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 14:32:37,882 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 14:32:38,902 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 14:32:38,986 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 14:32:39,064 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:03:52,485 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:03:53,570 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:03:53,660 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:03:53,747 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:05:28,181 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:05:29,435 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:05:29,536 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:05:29,617 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:06:23,570 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:06:24,941 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:06:25,029 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:06:25,110 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:09:19,235 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:09:20,467 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:09:20,562 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:09:20,645 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:11:09,381 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:11:10,697 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:11:10,788 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:11:10,872 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:14:31,274 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:14:32,832 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:14:32,918 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:14:32,991 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:15:12,726 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:15:14,053 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:15:14,137 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:15:14,215 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:16:47,284 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:16:48,663 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:16:48,749 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:16:48,823 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:18:12,731 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:18:14,143 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:18:14,228 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:18:14,307 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:20:07,905 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:20:09,359 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:20:09,447 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:20:09,535 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:21:03,606 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:21:05,006 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:21:05,093 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:21:05,170 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:21:35,784 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:21:37,085 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:21:37,172 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:21:37,251 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 15:59:42,522 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 15:59:43,767 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 15:59:43,850 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 15:59:43,925 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:04:25,946 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:04:27,129 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:04:27,213 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:04:27,288 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:05:58,359 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:05:59,955 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:06:00,042 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:06:00,119 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:07:31,926 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:07:33,081 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:07:33,164 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:07:33,238 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:08:31,384 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:08:32,623 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:08:32,709 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:08:32,783 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:10:38,553 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:10:39,649 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:10:39,733 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:10:39,807 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:11:27,909 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:11:29,240 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:11:29,325 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:11:29,407 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:12:40,637 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:12:42,048 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:12:42,131 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:12:42,206 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:13:13,970 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:13:15,238 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:13:15,324 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:13:15,400 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:13:44,978 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:13:45,991 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:13:46,075 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:13:46,148 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:14:57,677 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:14:58,967 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:14:59,050 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:14:59,124 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:16:41,985 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:16:43,244 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:16:43,339 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:16:43,426 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:17:09,644 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:17:11,176 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:17:11,261 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:17:11,338 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:20:17,392 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:20:18,763 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:20:18,848 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:20:18,922 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:21:47,211 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:21:48,567 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:21:48,652 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:21:48,733 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:35:50,451 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:35:51,553 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:35:51,642 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:35:51,719 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 16:37:43,313 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 16:37:44,658 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 16:37:44,746 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 16:37:44,828 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:06:53,095 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:06:54,161 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:06:54,256 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:06:54,341 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:10:59,563 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:11:00,775 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:11:00,864 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:11:00,939 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:11:42,228 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:11:43,601 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:11:43,685 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:11:43,761 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:13:00,497 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:13:01,875 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:13:01,959 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:13:02,039 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:15:13,642 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:15:15,011 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:15:15,098 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:15:15,173 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:16:17,098 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:16:18,418 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:16:18,504 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:16:18,581 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:56:00,807 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:56:02,108 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:56:02,196 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:56:02,281 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:57:35,483 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:57:36,817 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:57:36,903 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:57:36,980 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:58:21,140 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:58:22,541 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:58:22,627 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:58:22,706 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 17:59:20,305 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 17:59:21,672 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 17:59:21,757 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 17:59:21,831 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-05 18:01:48,278 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-05 18:01:49,717 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-05 18:01:49,802 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-05 18:01:49,876 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 14:35:50,452 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 14:35:52,202 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 14:35:52,293 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 14:35:52,381 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 14:37:09,775 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 14:37:10,968 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 14:37:11,058 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 14:37:11,136 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 14:37:52,216 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 14:37:53,731 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 14:37:53,821 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 14:37:53,912 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 14:38:32,604 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 14:38:34,097 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 14:38:34,190 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 14:38:34,280 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 15:14:44,842 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 15:14:45,893 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 15:14:45,982 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 15:14:46,058 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 15:16:26,760 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 15:16:27,971 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 15:16:28,058 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 15:16:28,142 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 15:16:45,467 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 15:16:46,989 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 15:16:47,082 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 15:16:47,166 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 15:17:34,452 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 15:17:35,901 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 15:17:35,988 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 15:17:36,064 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 15:18:08,964 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 15:18:10,190 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 15:18:10,278 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 15:18:10,355 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:05:53,181 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:05:54,298 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:05:54,382 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:05:54,458 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:06:10,827 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:06:12,047 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:06:12,131 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:06:12,204 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:06:25,695 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:06:26,848 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:06:26,931 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:06:27,006 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:06:39,890 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:06:41,090 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:06:41,178 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:06:41,261 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:06:52,643 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:06:53,911 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:06:54,007 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:06:54,091 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:07:26,937 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:07:28,201 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:07:28,281 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:07:28,363 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-01-06 16:08:01,237 - com.vts.TestRunner - INFO - Getting URl: http://localhost:8080/VTS-dev in browser
+2015-01-06 16:08:02,568 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-01-06 16:08:02,658 - com.vts.appSpecific.Authentication - INFO - Entering password: admin in to password textbox
+2015-01-06 16:08:02,738 - com.vts.appSpecific.Authentication - INFO - Clicking on Login button
+2015-09-21 17:32:17,139 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:32:21,721 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:32:21,818 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:32:49,848 - com.vts.appSpecific.Authentication - INFO - Browser was closed without logging out!!
+2015-09-21 17:38:17,884 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:38:22,165 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:38:22,273 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:39:29,673 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-21 17:41:16,788 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:41:21,082 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:41:21,172 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:43:30,785 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-21 17:44:12,980 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:44:17,256 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:44:17,353 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:44:40,473 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-21 17:45:12,012 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:45:16,142 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:45:16,245 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:45:49,089 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-21 17:46:51,787 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:46:56,058 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:46:56,147 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:47:07,462 - com.vts.appSpecific.Authentication - INFO - Browser was closed without logging out!!
+2015-09-21 17:54:20,120 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:54:24,357 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:54:24,470 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:54:53,971 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-21 17:55:13,918 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:55:18,156 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:55:18,257 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:55:39,358 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-21 17:56:31,222 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-21 17:56:35,307 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-21 17:56:35,402 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-21 17:56:59,719 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-09-30 18:44:35,571 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-30 18:44:38,741 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-30 18:44:38,843 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-30 18:44:44,938 - com.vts.appSpecific.NetworkInventory - INFO - Waiting for 2 seconds.
+2015-09-30 18:45:06,176 - com.vts.TestRunner - INFO - Closed an Open Window!!
+2015-09-30 18:45:10,720 - com.vts.appSpecific.NetworkInventory - INFO - Waiting for 2 seconds.
+2015-09-30 18:47:16,219 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-30 18:47:19,294 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-30 18:47:19,392 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-30 18:47:25,506 - com.vts.appSpecific.NetworkInventory - INFO - Waiting for 2 seconds.
+2015-09-30 18:47:46,758 - com.vts.TestRunner - INFO - Closed an Open Window!!
+2015-09-30 18:47:51,239 - com.vts.appSpecific.NetworkInventory - INFO - Waiting for 2 seconds.
+2015-09-30 18:50:41,900 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-09-30 18:50:45,286 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-09-30 18:50:45,369 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-09-30 18:51:45,660 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-09-30 18:52:46,080 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-09-30 18:53:46,274 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-09-30 18:54:46,827 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-09-30 18:55:47,115 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-09-30 18:56:07,365 - com.vts.appSpecific.Authentication - INFO - Browser was closed without logging out!!
+2015-10-12 11:17:28,120 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 11:17:31,997 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 11:17:35,219 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 11:17:35,322 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 11:17:38,169 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 11:17:38,229 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 11:26:37,709 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 11:26:39,693 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 11:26:42,812 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 11:26:42,908 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 11:26:45,768 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 11:26:45,825 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 11:27:50,640 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 11:27:52,579 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 11:27:55,618 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 11:27:55,717 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 11:27:58,531 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 11:27:58,604 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 12:08:14,694 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 12:08:18,017 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 12:08:21,276 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 12:08:21,383 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 12:08:24,291 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 12:08:24,347 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 12:08:25,541 - com.vts.TestRunner - INFO - Failed to click show hosts toggle buttonelement not visible
+  (Session info: chrome=45.0.2454.101)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'SHMOTAMA-XGVPB', ip: '10.65.44.154', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\shmotama\AppData\Local\Temp\scoped_dir4892_11454}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=45.0.2454.101, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 80487af6f695389a789e5cb1a395eb56
+2015-10-12 12:08:51,181 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 12:08:53,144 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 12:08:56,179 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 12:08:56,270 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 12:08:59,448 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 12:08:59,534 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 12:09:50,941 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 12:09:52,916 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 12:09:55,896 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 12:09:55,998 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 12:09:58,849 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 12:09:58,905 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 17:50:49,374 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 17:50:53,043 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 17:50:56,270 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 17:50:56,363 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 17:50:59,527 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 17:50:59,589 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 17:56:26,000 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 17:56:28,260 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 17:56:31,573 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 17:56:31,682 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 17:56:34,551 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 17:56:34,617 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 18:33:11,843 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 18:33:14,402 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 18:33:17,441 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 18:33:17,542 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 18:33:20,371 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 18:33:20,432 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 18:39:31,124 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 18:39:33,067 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 18:39:36,133 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 18:39:36,244 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 18:39:39,073 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 18:39:39,130 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 18:53:12,302 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 18:53:14,703 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 18:53:19,226 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 18:53:19,372 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 18:53:22,834 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 18:53:22,931 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 19:11:36,602 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 19:11:39,069 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 19:11:43,687 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 19:11:43,842 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 19:11:47,341 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 19:11:47,486 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 19:52:35,814 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 19:52:38,262 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 19:52:42,829 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 19:52:42,971 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 19:52:46,415 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 19:52:46,500 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-12 20:03:02,045 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-12 20:03:04,492 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-12 20:03:09,037 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-12 20:03:09,188 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-12 20:03:12,743 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-12 20:03:12,898 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:16:00,079 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:16:04,040 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:16:07,269 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:16:07,373 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:16:10,250 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:16:10,309 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:16:11,543 - com.vts.TestRunner - INFO - Failed to click show hosts toggle buttonelement not visible
+  (Session info: chrome=45.0.2454.101)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'SHMOTAMA-XGVPB', ip: '10.65.36.175', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\shmotama\AppData\Local\Temp\scoped_dir9196_14404}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=45.0.2454.101, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1b7aa6d6981f34276c3925d932283d44
+2015-10-13 12:18:21,887 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:18:23,847 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:18:27,186 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:18:27,297 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:18:30,126 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:18:30,186 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:22:12,462 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:22:14,396 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:22:17,510 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:22:17,609 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:22:20,457 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:22:20,513 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:23:55,766 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:23:57,705 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:24:00,851 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:24:00,949 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:24:03,840 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:24:03,906 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:32:58,756 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:33:00,947 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:33:04,004 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:33:04,105 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:33:06,938 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:33:07,022 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:34:21,432 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:34:24,223 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:34:29,160 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:34:29,262 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:34:32,132 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:34:32,181 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:35:39,657 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:35:41,618 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:35:44,698 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:35:44,790 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:35:47,600 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:35:47,655 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:38:28,639 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:38:30,585 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:38:34,430 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:38:34,529 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:38:37,390 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:38:37,446 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:40:08,401 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:40:10,335 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:40:13,336 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:40:13,438 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:40:16,258 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:40:16,315 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:45:22,972 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:45:24,907 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:45:27,974 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:45:28,078 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:45:30,903 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:45:30,959 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:46:33,580 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:46:36,293 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:46:39,504 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:46:39,608 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:46:42,453 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:46:42,517 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:47:31,812 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:47:33,744 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:47:36,961 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:47:37,061 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:47:39,971 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:47:40,051 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 12:52:45,191 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 12:52:47,427 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 12:52:50,445 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 12:52:50,555 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 12:52:53,416 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 12:52:53,477 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:06:10,912 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:06:15,927 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:06:19,128 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:06:19,236 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:06:22,434 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:06:22,497 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:09:31,208 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:09:33,143 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:09:36,187 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:09:36,292 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:09:39,165 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:09:39,225 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:12:02,469 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:12:04,418 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:12:07,512 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:12:07,614 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:12:10,464 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:12:10,522 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:12:26,517 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:14:55,745 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:14:57,460 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:15:00,544 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:15:00,652 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:15:03,547 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:15:03,595 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:15:28,781 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:18:01,060 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:18:03,041 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:18:05,963 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:18:06,055 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:18:08,925 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:18:08,973 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:18:34,391 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:28:54,949 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:28:56,351 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:28:59,525 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:28:59,622 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:29:02,505 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:29:02,564 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:29:07,951 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:30:12,283 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:30:15,648 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:30:18,596 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:30:18,707 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:30:22,004 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:30:22,061 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:31:01,348 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:32:30,623 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:32:32,645 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:32:35,584 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:32:35,677 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:32:38,571 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:32:38,618 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:33:26,311 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:34:13,500 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:34:15,532 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:34:18,478 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:34:18,584 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:34:21,459 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:34:21,530 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:34:22,925 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:34:30,340 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:34:32,383 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:34:35,439 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:34:35,529 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:34:38,394 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:34:38,453 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:34:56,682 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:36:46,781 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:36:50,946 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:36:53,913 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:36:54,021 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:36:57,130 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:36:57,185 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:37:00,298 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:37:08,163 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:37:10,097 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:37:13,068 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:37:13,162 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:37:15,978 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:37:16,054 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:37:19,196 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:40:11,318 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:40:12,746 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:40:15,711 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:40:15,806 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:40:18,642 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:40:18,689 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:40:20,515 - com.vts.TestRunner - INFO - No Tenant value is found to select
+2015-10-13 15:40:21,830 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:42:37,730 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:42:39,688 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:42:42,673 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:42:42,771 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:42:45,775 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:42:45,839 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:42:48,938 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:46:12,734 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:46:17,958 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:46:21,078 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:46:21,180 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:46:24,276 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:46:24,331 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:46:32,258 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:48:39,716 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:48:41,949 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:48:45,070 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:48:45,161 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:48:48,015 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:48:48,079 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:48:55,894 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 15:59:09,224 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 15:59:11,703 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 15:59:14,648 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 15:59:14,743 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-13 15:59:17,627 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-13 15:59:17,687 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-13 15:59:40,150 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-13 16:13:05,837 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-13 16:13:10,468 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-13 16:13:13,478 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-13 16:13:13,576 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-19 14:22:17,503 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-19 14:22:21,301 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-19 14:22:26,061 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-19 14:22:26,201 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-19 14:22:29,691 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-19 14:22:29,839 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-19 14:22:44,332 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-19 14:23:42,685 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-19 14:25:20,248 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-19 14:25:22,390 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-19 15:06:52,516 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-19 15:06:55,008 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-19 15:06:58,167 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-19 15:06:58,257 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-19 15:07:01,021 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-19 15:07:01,103 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-19 15:07:02,228 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-19 15:07:02,228 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-19 15:07:02,316 - com.vts.TestRunner - INFO - Browsing file FexInventory.csv from windows...
+2015-10-19 15:07:02,317 - com.vts.TestRunner - INFO - Exiting selectFileToUpload Method
+2015-10-19 15:07:09,367 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-10-19 15:07:10,529 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-19 15:39:18,412 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-19 15:39:31,650 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-19 15:39:34,803 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-19 15:39:34,901 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-19 15:39:37,773 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-19 15:39:37,863 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-19 15:39:38,997 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-19 15:39:38,997 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-19 15:39:39,083 - com.vts.TestRunner - INFO - Browsing file FexInventory.csv from windows...
+2015-10-19 15:39:39,083 - com.vts.TestRunner - INFO - Exiting selectFileToUpload Method
+2015-10-19 15:43:33,521 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-19 15:43:37,838 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-19 15:43:40,973 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-19 15:43:41,059 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-19 15:43:43,911 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-19 15:43:43,997 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-19 15:43:45,134 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-19 15:43:45,134 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-19 15:43:45,204 - com.vts.TestRunner - INFO - Browsing file FexInventoryInvalid.csv from windows...
+2015-10-19 15:43:45,204 - com.vts.TestRunner - INFO - Exiting selectFileToUpload Method
+2015-10-19 15:43:45,913 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-10-19 15:43:47,116 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-19 15:44:45,555 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-19 15:44:47,760 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-19 15:44:50,854 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-19 15:44:50,943 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-19 15:44:53,809 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-19 15:44:53,899 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-19 15:44:55,039 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-19 15:44:55,039 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-19 15:44:55,138 - com.vts.TestRunner - INFO - Browsing file FexInventoryInvalid.csv from windows...
+2015-10-19 15:44:55,139 - com.vts.TestRunner - INFO - Exiting selectFileToUpload Method
+2015-10-19 15:44:55,862 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-10-19 15:44:57,055 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-21 15:33:11,768 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-21 15:33:15,491 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-21 15:33:18,735 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-21 15:33:18,826 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-21 15:33:21,681 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-21 15:33:21,761 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-21 15:33:22,924 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-21 15:33:22,925 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-21 15:33:22,999 - com.vts.TestRunner - INFO - Browsing file FexInventory.csv from windows...
+2015-10-21 15:33:23,000 - com.vts.TestRunner - INFO - Exiting selectFileToUpload Method
+2015-10-21 15:34:03,281 - com.vts.TestRunner - INFO - Could not retrive Message from toaster
+2015-10-21 15:34:03,324 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-10-21 15:34:04,617 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-21 15:37:44,956 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-21 15:37:46,934 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-21 15:37:50,426 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-21 15:37:50,523 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-21 15:37:53,799 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-21 15:37:53,933 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-21 15:37:55,058 - com.vts.TestRunner - INFO - Entered selectFileToUpload Method
+2015-10-21 15:37:55,059 - com.vts.TestRunner - INFO - CD.....C:\shiva\VTS_AUTOMATION_GIT\automation
+2015-10-21 15:37:55,153 - com.vts.TestRunner - INFO - Browsing file FexInventory.csv from windows...
+2015-10-21 15:37:55,153 - com.vts.TestRunner - INFO - Exiting selectFileToUpload Method
+2015-10-21 15:38:35,404 - com.vts.TestRunner - INFO - Could not retrive Message from toaster
+2015-10-21 15:38:35,431 - com.vts.TestRunner - INFO - Nothing to close!!
+2015-10-21 15:38:36,726 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-27 16:17:07,033 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-27 16:17:13,760 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-27 16:17:16,838 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-27 16:17:16,952 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-27 16:17:19,690 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-27 16:17:19,772 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-27 16:20:03,243 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-27 16:20:23,690 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-27 16:20:25,692 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-27 16:20:28,677 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-27 16:20:28,779 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-27 16:20:31,558 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-27 16:20:31,649 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-27 16:23:39,928 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-27 16:23:42,385 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-27 16:23:45,474 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-27 16:23:45,565 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-27 16:23:48,317 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-27 16:23:48,400 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-27 16:23:53,586 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!
+2015-10-27 16:51:14,127 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-10-27 16:51:17,883 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-10-27 16:51:20,849 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-10-27 16:51:20,957 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-10-27 16:51:23,711 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-10-27 16:51:23,792 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-10-27 16:51:53,586 - com.vts.TestRunner - INFO - Breadcrumb is not visible no such element
+  (Session info: chrome=46.0.2490.71)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'SHMOTAMA-XGVPB', ip: '10.65.48.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\shmotama\AppData\Local\Temp\scoped_dir9836_1455}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=46.0.2490.71, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8a1470a9a430c32ac56e2582b47586a1
+*** Element info: {Using=link text, value=Topology}
+2015-11-02 15:01:05,389 - com.vts.TestRunner - INFO - Tests running on OS: Windows 7
+2015-11-02 15:01:14,821 - com.vts.TestRunner - INFO - Getting URl: https://localhost:8443/VTS/index.html in browser
+2015-11-02 15:01:17,952 - com.vts.appSpecific.Authentication - INFO - Entering username : admin in to Username textbox
+2015-11-02 15:01:18,052 - com.vts.appSpecific.Authentication - INFO - Entering password: P@ssw0rd in to password textbox
+2015-11-02 15:01:20,880 - com.vts.TestRunner - INFO - Found the Quick Start Guide
+2015-11-02 15:01:20,960 - com.vts.TestRunner - INFO - Closed the Quick Start Guide
+2015-11-02 15:01:35,114 - com.vts.TestRunner - INFO - No Tenant value is found to select no such element
+  (Session info: chrome=46.0.2490.80)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'SHMOTAMA-XGVPB', ip: '10.65.57.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\shmotama\AppData\Local\Temp\scoped_dir9416_20239}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=46.0.2490.80, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ca133944ea39e9ebce32dd69569c8155
+*** Element info: {Using=xpath, value=//a[@ng-click='setSelectedTenant(tenant)' and .='TestTenant2']}
+2015-11-02 15:01:43,151 - com.vts.appSpecific.Authentication - INFO - Browser was closed after logging out!!

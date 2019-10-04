@@ -1,0 +1,242 @@
+2014-10-16 14:56:58,100 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"createDevice0a_label"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: c9474e92-80f8-4b22-bd73-d270dd6a2027
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 14:59:30,938 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"createDevice0a_label"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: e43548db-727d-4748-938b-566d25e57890
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 15:01:03,480 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"createDevice0a_label"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: a38144f7-4489-4cc8-96d5-93636fb20632
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 15:09:01,088 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: e82371e7-9920-4ea2-9dd2-54e29e3ce265
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 15:09:01,197 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: e82371e7-9920-4ea2-9dd2-54e29e3ce265
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 17:06:12,373 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 7f247c90-63a5-4044-8085-49ef29473f35
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 17:06:12,442 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 7f247c90-63a5-4044-8085-49ef29473f35
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 17:14:56,056 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 181129a2-7cb8-4e59-9eed-a1257b1e0310
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 17:14:56,126 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 181129a2-7cb8-4e59-9eed-a1257b1e0310
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 17:25:33,165 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 31e3448b-7d43-431d-99b4-6b4ade544dfd
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-16 17:25:33,234 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 23 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.61.181', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 31e3448b-7d43-431d-99b4-6b4ade544dfd
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:14:39,183 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"inputeParameters_label"}
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: c60f16e5-91f8-49cc-be3e-d622b9577084
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:14:39,839 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"startDiscovery_label"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: c60f16e5-91f8-49cc-be3e-d622b9577084
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:18:08,789 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"inputeParameters_label"}
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 1a2fe5b3-bd79-4d0e-8a67-ca9c2867ab2d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:18:10,062 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"startDiscovery_label"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 1a2fe5b3-bd79-4d0e-8a67-ca9c2867ab2d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:21:40,470 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"inputeParameters_label"}
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: b1ef43ad-ea69-4fb1-b932-c002091f561c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:21:41,206 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"startDiscovery_label"}
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: b1ef43ad-ea69-4fb1-b932-c002091f561c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:25:12,380 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"inputeParameters_label"}
+Command duration or timeout: 37 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 19b0c31b-76e1-402a-a469-8de771c4acf8
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:25:13,317 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"startDiscovery_label"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 19b0c31b-76e1-402a-a469-8de771c4acf8
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:28:44,557 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"inputeParameters_label"}
+Command duration or timeout: 50 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 30014123-9fc9-48aa-969e-5172e62a7380
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:28:45,312 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"startDiscovery_label"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 30014123-9fc9-48aa-969e-5172e62a7380
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 10:34:57,732 - com.vts.appSpecific.NodeDiscovery - ERROR - Unable to locate element: {"method":"id","selector":"inputeParameters_label"}
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.49.123', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 5b2122f6-a3ea-4b8b-ac99-5467853d70b0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=32.0.3}]
+2014-10-17 14:16:22,329 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 14:16:43,759 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 14:17:09,482 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 14:17:36,084 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 14:18:03,161 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 18:56:19,258 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:05:27,992 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:13:11,988 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:13:32,512 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:13:46,725 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:14:00,985 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:14:16,523 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:14:32,195 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:18:24,060 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:18:45,952 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:19:01,366 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:19:16,481 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-10-17 19:23:34,030 - com.vts.appSpecific.NodeDiscovery - ERROR - 
+2014-11-05 13:18:06,100 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.38.169', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: bffe78e8-1e08-4dd3-a0fc-58749963bf27
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:17:09,750 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: a2e53b12-6091-4beb-accc-18e95ef2886e
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:17:15,687 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 12 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: a2e53b12-6091-4beb-accc-18e95ef2886e
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:17:38,443 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 17 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: a3b13d7f-07fa-488d-a078-e2e12a03ce36
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:17:43,607 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 23 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: a3b13d7f-07fa-488d-a078-e2e12a03ce36
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:18:20,107 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 12 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 023ff8b9-8371-4a72-a9da-593b3311f99e
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:18:20,174 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 13 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 023ff8b9-8371-4a72-a9da-593b3311f99e
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
+2014-11-07 09:18:36,692 - com.vts.appSpecific.NodeDiscovery - ERROR - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 13 milliseconds
+Build info: version: '2.43.1', revision: '5163bceef1bc36d43f3dc0b83c88998168a363a0', time: '2014-09-10 09:43:55'
+System info: host: 'redake-ws', ip: '10.65.51.22', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: d8b8417b-d064-4ccc-83c7-3c71513b8aee
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.0.2}]
